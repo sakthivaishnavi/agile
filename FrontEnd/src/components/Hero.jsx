@@ -22,10 +22,10 @@ const Hero = () => {
   return (
     <div>
       <div>
-        <h2 className='text-4xl font-bold font-mono px-10 pt-28'>
+        <h2 className='text-4xl font-bold font-mono px-10 pt-24'>
           Check out our Menu
         </h2>
-        <div className="grid grid-cols-4 gap-4 px-10 py-6">
+        <div className="grid grid-cols-4 gap-6 px-10 py-6">
           {menuItems.map((item, index) => (
             <div key={index} className="border p-6 rounded-lg shadow-lg hover:shadow-2xl transition-shadow duration-300">
               <img 
@@ -33,7 +33,7 @@ const Hero = () => {
                 alt={item.name} 
                 width={250} 
                 height={150}
-                style={{ objectFit: 'contain', borderRadius: '10px' }}
+                style={{ objectFit: 'cover', borderRadius: '10px' }}
               />
               <h3 className="text-2xl font-bold mt-4">{item.name}</h3>
               <p className="text-lg mt-2">{item.type}</p>
