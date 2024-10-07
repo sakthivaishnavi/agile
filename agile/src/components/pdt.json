@@ -1,0 +1,122 @@
+
+
+{"name": "Fried Rice",
+"price": "80",
+"type": "Veg",
+"image": ""},
+
+{"name": "Noodles",
+"price": "70",
+"type": "Veg",
+"image": ""},
+
+{"name": "Dosa",
+"price": "50",
+"type": "Veg",
+"image": ""},
+
+{"name": "Idly",
+"price": "30",
+"type": "Veg",
+"image": ""},
+
+{"name": "Parotta",
+"price": "18",
+"type": "Veg",
+"image": ""},
+
+{"name": "Chicken Biryani" ,
+"price": "120",
+"type": "Non-Veg",
+"image": ""},
+
+{"name": "Chicken Kothu",
+"price": "100",
+"type": "Non-Veg",
+"image": ""},
+
+{"name":"Chicken fried rice", 
+"price": "110",
+"type": "Non-Veg", ,
+"image":"" },
+
+{"name": "Chicken Noodles",
+"price": "100",
+"type":"Non-Veg", ,
+"image": ""},
+
+{"name": "Chicken 65",
+"price": "90",
+"type": "Non-Veg",
+"image": ""},
+
+{"name": "Paneer butter masala",
+"price": "100",
+"type": "Veg",
+"image": ""},
+
+{"name": "Paneer fried rice",
+"price": "90",
+"type": "Veg",
+"image": ""},
+
+{"name": "Paneer Noodles",
+"price": "80",
+"type": "Veg",
+"image": ""},
+
+{"name": "Paneer 65",
+"price": "70",
+"type": "Veg",
+"image": ""},
+
+{"name": "Paneer Biryani",
+"price": "120",
+"type": "Veg",
+"image": ""},
+
+{"name": "Mushroom Biryani",
+"price": "100",
+"type": "Veg",
+"image": ""},
+
+{"name": "Mushroom fried rice",
+"price": "90",
+"type": "Veg",
+"image": ""},
+
+{"name": "Mushroom Noodles",
+"price": "80",
+"type": "Veg",
+"image": ""},
+
+{"name": "Mushroom 65",
+"price": "70",
+"type": "Veg",
+"image": ""},
+
+{"name": "Chappathi",
+"price": "20",
+"type": "Veg",
+"image": ""},
+
+{"name": "Schezwan fried rice",
+"price": "90",
+"type": "Veg",
+"image": ""},
+
+{"name": "Schezwan Noodles",
+"price": "80",
+"type": "Veg",
+"image": ""},
+
+{"name": "Schezwan chicken fried rice",
+"price": "110",
+"type": "Non-Veg",
+"image": ""},
+
+{"name": "Schezwan chicken Noodles",
+"price": "100",
+"type": "Non-Veg",
+"image": ""},
+
