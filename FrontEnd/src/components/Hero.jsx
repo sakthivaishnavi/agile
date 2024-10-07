@@ -1,4 +1,5 @@
 import biriyani from '../assets/biriyani.jpeg'; 
+import mushroom from '../assets/mushroom-biryani.jpeg';
 
 const Hero = () => {
   return (
@@ -13,7 +14,7 @@ const Hero = () => {
                 <img src={biriyani} alt="Biriyani" width={250} height={250}/>
             </div>
             <div >
-                <img src={biriyani} alt="Biriyani" width={250} height={250}/>
+                <img src={mushroom} alt="mushroom" width={250} height={250}/>
             </div>
             <div >
                 <img src={biriyani} alt="Biriyani" width={250} height={250}/>
